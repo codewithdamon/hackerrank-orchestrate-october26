@@ -207,7 +207,6 @@ hackerrank-orchestrate-october26/
 │   │
 │   └── evaluation/
 │       ├── main.js
-│       ├── main.py
 │       ├── evaluation_report.md
 │       └── usage_report.md
 │
